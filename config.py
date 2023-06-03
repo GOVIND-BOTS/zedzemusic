@@ -33,15 +33,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
 # For customized or modified Repository
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/team-katil/zedzemusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/katil_bots")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/katilsupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/govind_love_n")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/tha_govind_op")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "5000"))
