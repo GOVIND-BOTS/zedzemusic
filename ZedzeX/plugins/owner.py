@@ -17,7 +17,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/468135327186a4ddece77.jpg",
+        photo=f"https://te.legra.ph/file/966e5a49de0ff24a45212.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -35,7 +35,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/9810c75612082e3c8f8fb.jpg",
+        photo=f"https://te.legra.ph/file/966e5a49de0ff24a45212.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -67,19 +67,19 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Sᴀʏᴀʀɪ Lᴏᴠᴇʀs✨❤️🥀", url=f"https://t.me/Angal_23_76")
+                        "RIYA", url=f"https://t.me/Angal_23_76")
                 ]
             ]
         ),
     )
 
 @app.on_message(
-    filters.command("katil")
+    filters.command("riya")
     & filters.group
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7d2a56b2e48a1601a1776.jpg",
+        photo=f"https://te.legra.ph/file/966e5a49de0ff24a45212.jpg",
         caption=f"""🦋•────────────────•🦋 \n          🇸𝗧𝗨𝗗𝗬  𝙉𝘿 𝘾𝙍𝙔😭
 🦋•────────────────•🦋
 ┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓
@@ -92,7 +92,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Sᴀʏᴀʀɪ Lᴏᴠᴇʀs✨❤️🥀", url=f"https://t.me/sayari_lovers")
+                        "Sᴀʏᴀʀɪ Lᴏᴠᴇʀs✨❤️🥀", url=f"https://t.me/angel_23_76")
                 ]
             ]
         ),
