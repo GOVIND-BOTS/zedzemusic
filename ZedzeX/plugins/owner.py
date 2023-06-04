@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/GOVIND_OFFICIAL_MP42")
+                        "🇬𝐎𝐕𝐈𝐍𝐃 ", url=f"https://t.me/GOVIND_OFFICIAL_MP42")
                 ]
             ]
         ),
@@ -49,12 +49,12 @@ async def help(client: Client, message: Message):
 
 
 @app.on_message(
-    filters.command("katil")
+    filters.command("riya")
     & filters.group
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/7d2a56b2e48a1601a1776.jpg",
+        photo=f"https://te.legra.ph/file/ebe4e9110815a3e9b9da5.jpg",
         caption=f"""🦋•────────────────•🦋 \n          🇸𝗧𝗨𝗗𝗬  𝙉𝘿 𝘾𝙍𝙔😭
 🦋•────────────────•🦋
 ┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓
@@ -67,7 +67,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Sᴀʏᴀʀɪ Lᴏᴠᴇʀs✨❤️🥀", url=f"https://t.me/sayari_lovers")
+                        "Sᴀʏᴀʀɪ Lᴏᴠᴇʀs✨❤️🥀", url=f"https://t.me/Angal_23_76")
                 ]
             ]
         ),
