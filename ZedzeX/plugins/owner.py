@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/9810c75612082e3c8f8fb.jpg",
+        photo=f"https://te.legra.ph/file/468135327186a4ddece77.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/katil_your_dad")
+                        "🇬𝐎𝐕𝐈𝐍𝐃 ", url=f"https://t.me/GOVIND_FFICIAL_MP42")
                 ]
             ]
         ),
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/katil_your_dad")
+                        "༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ", url=f"https://t.me/GOVIND_OFFICIAL_MP42")
                 ]
             ]
         ),
