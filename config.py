@@ -24,7 +24,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "govind music")
 
 # Your User ID.
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5348648456").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6099950428").split()))
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
@@ -113,7 +113,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/ff3d94744211c796cf5bb")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/01d39902154eebe1b02cd.jpg")
 
 PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/07b109ac650e5f4fec9e5.jpg")
     
