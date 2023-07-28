@@ -24,7 +24,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "govind music")
 
 # Your User ID.
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6099950428").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6264449143").split()))
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
@@ -40,8 +40,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/govind_love_n")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/tha_govind_op")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/arning_with_govind")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Friends_Ki_Duniya_love")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "5000"))
