@@ -2,29 +2,29 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**team-katil/team-katil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**team-govind/team-govind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/team-katil/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/team-govind/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    ──「 Zᴇᴅᴢᴇ ✘ 」──
+    ──「 Tina music ✘ 」──
     
 
 ★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+TEAM+KATIL+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+TEAM+GOVIND+🎭">
 <p align="center">
-  <img src="https://telegra.ph/file/ff3d94744211c796cf5bb.jpg">
+  <img src="https://te.legra.ph/file/44fc6790f9259d43cd943.jpg">
 </p>
 
-**𝘽𝙊𝙏 ➣ [Zᴇᴅᴢᴇ ✘](https://t.me/zedzexrobot)**
+**𝘽𝙊𝙏 ➣ [Zᴇᴅᴢᴇ ✘](https://t.me/govind_musicx_bot)**
 
 <p align="center">
 <a href="https://github.com/team-katil/zedzemusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -52,7 +52,7 @@
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/katil_your_dad"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『𝐊𝐀𝐓𝐈𝐋』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/GOIND_OFFICIAL_MP9"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『GOVIND』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -91,10 +91,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/unique_chat_world"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Friends_Ki_Duniya_love"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/the_warrior_network"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="arning_with_govind"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
