@@ -18,7 +18,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001919162625"))
 
 # A name for your Music bot.
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "govind music")
